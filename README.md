@@ -14,7 +14,7 @@
  >Interface para a realização de respostas das perguntas e visualização das outras respostas 
 >![Guia de Perguntas](https://github.com/themarcosramos/Guia_de_pergunta/blob/master/img/img5.PNG)
 
-### Tecnologias utilizadas : ###
+### Tecnologias utilizadas  ###
 
 * [Node js](https://nodejs.org/en/)
 * [Maria BD](https://mariadb.org/)
@@ -22,9 +22,9 @@
 * [Bootstrap 4](https://getbootstrap.com/)
 * [Sequelize](https://sequelize.org/)
 
-### Como testa a plataforma: ###
+### Como utilizar a plataforma ###
 
-Tenha o [maria B.D.](https://mariadb.org/) e [node js](https://nodejs.org/en/) instalados em sua máquina e os coloque em execução, após isso baixe este projeto do repositório e o extaria, depois disso abra no terminal a pasta do projeto e execute o comando a seguir:
+Tenha o [maria bd](https://mariadb.org/) e [node js](https://nodejs.org/en/) instalados em sua máquina e os coloque em execução, após isso baixe este projeto do repositório e o extaria, depois disso abra no terminal a pasta do projeto e execute o comando a seguir:
 
 `````bash
   npm install
