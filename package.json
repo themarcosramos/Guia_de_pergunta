@@ -1,0 +1,19 @@
+{
+  "name": "guia_de_pergunta",
+  "version": "1.0.0",
+  "description": "plataforma de perguntas e respostas estilo yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mariadb": "^2.2.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.5"
+  }
+}
