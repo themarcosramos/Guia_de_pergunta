@@ -3,7 +3,7 @@
  Side project de uma plataforma de perguntas e respostas estilo [yahoo respostas](https://br.answers.yahoo.com/)  e [ask fm ](https://ask.fm/) para fins de aprendizagem.
  
  >Interface principal da plataforma de perguntas e respostas 
- >![Guia de Perguntas](img/img1.png)
+ >![Guia de Perguntas](https://github.com/themarcosramos/Guia_de_pergunta/blob/master/img/img1.PNG)
 
  >Interface para a realização de perguntas da plataforma
  >![Guia de Perguntas](img/img3.png)
