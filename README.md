@@ -6,13 +6,13 @@
  >![Guia de Perguntas](https://github.com/themarcosramos/Guia_de_pergunta/blob/master/img/img1.PNG)
 
  >Interface para a realização de perguntas da plataforma
- >![Guia de Perguntas](img/img3.png)
+ >![Guia de Perguntas](https://github.com/themarcosramos/Guia_de_pergunta/blob/master/img/img3.PNG)
  
  >Interface para a realização de respostas das perguntas 
- >![Guia de Perguntas](img/img4.png)
+ >![Guia de Perguntas](https://github.com/themarcosramos/Guia_de_pergunta/blob/master/img/img4.PNG)
 
  >Interface para a realização de respostas das perguntas e visualização das outras respostas 
->![Guia de Perguntas](img/img5.png)
+>![Guia de Perguntas](https://github.com/themarcosramos/Guia_de_pergunta/blob/master/img/img5.PNG)
 
 ### Tecnologias utilizadas : ###
 
